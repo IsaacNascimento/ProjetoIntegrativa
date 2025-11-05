@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\domain\\interfaces\\icotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\icotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +19,48 @@
       "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\entities\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\repositories\\cotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\repositories\\cotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\domain\\interfaces\\icotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\icotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|c:\\users\\isaac\\onedrive\\documentos\\documents\\trabalho e pessoal\\processo integrativo\\projetointegrativa\\api\\integrativa.persistence\\integrativa.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325DFB29-2E84-4778-AF20-EB617C7471F9}|Integrativa.Persistence\\Integrativa.Persistence.csproj|solutionrelative:integrativa.persistence\\integrativa.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\integrativa.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\integrativa.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D2E1218-1EA3-43F7-A124-E81AD961AF90}|Domain\\Integrativa.Domain.csproj|solutionrelative:domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +70,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CotacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\CotacaoRepository.cs",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Repositories\\CotacaoRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\CotacaoRepository.cs",
+              "RelativeToolTip": "Integrativa.Persistence\\Repositories\\CotacaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:00:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "Integrativa.Persistence\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:59:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Integrativa.Persistence\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:57:36.826Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -58,112 +121,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Integrativa.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:45:40.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ICotacaoRepository.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\ICotacaoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICotacaoRepository.cs",
               "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\ICotacaoRepository.cs",
               "RelativeToolTip": "Domain\\Interfaces\\ICotacaoRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T01:21:40.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IProdutoRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IProdutoRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IProdutoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:21:05.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IFornecedorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IFornecedorRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFornecedorRepository.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IFornecedorRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IFornecedorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:19:45.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:18:50.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cotacao.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Cotacao.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Cotacao.cs",
               "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Cotacao.cs",
               "RelativeToolTip": "Domain\\Entities\\Cotacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:16:05.041Z"
+              "WhenOpened": "2025-11-05T01:16:05.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Produto.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Produto.cs",
-              "RelativeToolTip": "Domain\\Entities\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:15:14.602Z"
+              "WhenOpened": "2025-11-05T01:10:54.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Fornecedor.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Fornecedor.cs",
               "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Fornecedor.cs",
               "RelativeToolTip": "Domain\\Entities\\Fornecedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:14:04.961Z"
+              "WhenOpened": "2025-11-05T01:14:04.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Integrativa.Domain",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:15:14.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Integrativa.Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:55:01.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:18:50.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Integrativa.Persistence",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Integrativa.Persistence.csproj",
+              "RelativeDocumentMoniker": "Integrativa.Persistence\\Integrativa.Persistence.csproj",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Integrativa.Persistence\\Integrativa.Persistence.csproj",
+              "RelativeToolTip": "Integrativa.Persistence\\Integrativa.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T01:52:47.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:19:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:21:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Integrativa.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Integrativa.Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Integrativa.Domain.csproj",
               "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Integrativa.Domain.csproj",
               "RelativeToolTip": "Domain\\Integrativa.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T01:11:41.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documentos\\Documents\\Trabalho e Pessoal\\Processo Integrativo\\ProjetoIntegrativa\\Api\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:10:54.578Z"
+              "WhenOpened": "2025-11-05T01:11:41.02Z",
+              "EditorCaption": ""
             }
           ]
         }
