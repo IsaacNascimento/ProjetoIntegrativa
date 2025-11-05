@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Integrativa.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119cb675df69c53c4e546d58e8fe5853085dae81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a38229cbe48f63d6f7fb142fca9b046dd8b4e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Integrativa.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Integrativa.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

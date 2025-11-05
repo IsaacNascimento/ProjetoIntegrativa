@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Integrativa.Persistence")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Integrativa.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a38229cbe48f63d6f7fb142fca9b046dd8b4e4")]
-[assembly: System.Reflection.AssemblyProductAttribute("Integrativa.Persistence")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Integrativa.Persistence")]
+[assembly: System.Reflection.AssemblyProductAttribute("Integrativa.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Integrativa.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
