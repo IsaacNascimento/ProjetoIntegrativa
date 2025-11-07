@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Integrativa.Persistence.Repositories
 {
-    internal class CotacaoRepository : BaseRepository<Cotacao>, ICotacaoRepository
+    public class CotacaoRepository : BaseRepository<Cotacao>, ICotacaoRepository
     {
         public CotacaoRepository(AppDbContext dbContext) : base(dbContext)
         {
@@ -18,7 +18,7 @@ namespace Integrativa.Persistence.Repositories
 
         public async Task<Cotacao> ObterPorMenorPreco()
         {
-            var menorCotacao = await DbContext.Cotacoes
+            var menorCotacao = await DbContext.cotacao
                 .OrderBy(x => x.Preco)
                 .FirstOrDefaultAsync();
             return menorCotacao;

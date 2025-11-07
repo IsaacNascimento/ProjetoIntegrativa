@@ -1,11 +1,9 @@
-﻿# Visual Studio / dotnet
+﻿# Ignorar build .NET
 **/bin/
 **/obj/
-**/Debug/
-**/Release/
-*.user
-*.suo
-*.vs
+
+# Visual Studio
+.vs/
 
 # Rider / JetBrains
 .idea/
@@ -14,15 +12,10 @@
 # VS Code
 .vscode/
 
-# Docker local builds
-**/app/publish/
-**/app/temp/
-docker-compose.override.yml
-
 # Logs
 *.log
 
-# Backup e arquivos temporários
+# Arquivos temporários
 *.tmp
 *.temp
 *.bak
@@ -30,7 +23,3 @@ docker-compose.override.yml
 # Sistema operacional
 .DS_Store
 Thumbs.db
-
-# OneDrive / Windows Sync metadata
-*.lnk
-~$*

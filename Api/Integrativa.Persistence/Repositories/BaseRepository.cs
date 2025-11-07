@@ -14,19 +14,22 @@ namespace Integrativa.Persistence.Repositories
             this.DbContext = dbContext;
         }
 
-        public void Create(T entity)
+        public async Task Create(T entity)
         {
             DbContext.Add<T>(entity);
+            await DbContext.SaveChangesAsync();
         }
 
-        public void Update(T entity)
+        public async Task Update(T entity)
         {
             DbContext.Update<T>(entity);
+            await DbContext.SaveChangesAsync();
         }
 
-        public void Delete(T entity)
+        public async Task Delete(T entity)
         {
             DbContext.Remove<T>(entity);
+            await DbContext.SaveChangesAsync();
         }
 
         public async Task<T> Get(int id)
