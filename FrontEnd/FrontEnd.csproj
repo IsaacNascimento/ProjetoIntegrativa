@@ -159,6 +159,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="FornecedorCriar.aspx" />
+    <Content Include="Fornecedores.aspx" />
     <Content Include="Global.asax" />
     <Content Include="ProdutoCriar.aspx" />
     <Content Include="Produtos.aspx" />
@@ -246,6 +248,20 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FornecedorCriar.aspx.cs">
+      <DependentUpon>FornecedorCriar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FornecedorCriar.aspx.designer.cs">
+      <DependentUpon>FornecedorCriar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fornecedores.aspx.cs">
+      <DependentUpon>Fornecedores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fornecedores.aspx.designer.cs">
+      <DependentUpon>Fornecedores.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

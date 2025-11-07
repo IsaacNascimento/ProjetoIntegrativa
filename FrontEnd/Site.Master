@@ -49,6 +49,8 @@
                     <ul class="navbar-nav flex-grow-1">
                          <li class="nav-item"><a class="nav-link" runat="server" href="~/Produtos.aspx">Produtos</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/ProdutoCriar.aspx">Criar Produto</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Fornecedores.aspx">Fornecedores</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/FornecedorCriar.aspx">Criar Fornecedor</a></li>
                     </ul>
                 </div>
             </div>

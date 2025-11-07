@@ -66,18 +66,14 @@ public static class ApiClient
 
     public static async Task CreateProdutoAsync(ProdutoDto dto)
     {
-        var produto = new { nome = dto.Nome };
-        var json = JsonConvert.SerializeObject(produto);
+        var json = JsonConvert.SerializeObject(dto);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         var res = await _http.PostAsync("api/Produto", content);
-        // read body sempre (útil para debugar)
         var body = await res.Content.ReadAsStringAsync();
 
         if (!res.IsSuccessStatusCode)
-        {
-            // lança com detalhes do servidor
             throw new InvalidOperationException($"HTTP {(int)res.StatusCode} {res.ReasonPhrase}: {body}");
-        }
+
         res.EnsureSuccessStatusCode();
     }
 
@@ -92,6 +88,11 @@ public static class ApiClient
         var json = JsonConvert.SerializeObject(dto);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         var res = await _http.PostAsync("api/Fornecedor", content);
+        var body = await res.Content.ReadAsStringAsync();
+
+        if (!res.IsSuccessStatusCode)
+            throw new InvalidOperationException($"HTTP {(int)res.StatusCode} {res.ReasonPhrase}: {body}");
+
         res.EnsureSuccessStatusCode();
     }
 }
