@@ -4,7 +4,7 @@ using Cotacao.Persistence.Context;
 
 namespace Cotacao.Persistence.Repositories
 {
-    public class FornecedorRepository : BaseRepository<Fornecedor>, IFornecedorRepository
+    public class FornecedorRepository : BaseRepository<FornecedorEntity>, IFornecedorRepository
     {
         public FornecedorRepository(AppDbContext dbContext) : base(dbContext)
         {

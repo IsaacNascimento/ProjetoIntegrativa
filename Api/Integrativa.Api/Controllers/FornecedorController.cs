@@ -23,7 +23,7 @@ namespace Cotacao.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> RegistrarFornecedor([FromBody] Fornecedor fornecedor)
+        public async Task<IActionResult> RegistrarFornecedor([FromBody] FornecedorEntity fornecedor)
         {
             await _repository.Create(fornecedor);
             return Ok("Cadastrado!");

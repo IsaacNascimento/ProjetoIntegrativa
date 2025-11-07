@@ -1,9 +1,8 @@
-﻿
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Cotacao.Domain.Entities
 {
-    public sealed class CotacaoEntity : BaseEntity
+    public class CotacaoEntity : BaseEntity
     {
         [Column("data")]
         public DateTime Data { get; set; }
@@ -16,5 +15,11 @@ namespace Cotacao.Domain.Entities
 
         [Column("preco")]
         public decimal Preco { get; set; }
+
+        [ForeignKey("FornecedorId")]
+        public virtual FornecedorEntity Fornecedor { get; set; }
+
+        [ForeignKey("ProdutoId")]
+        public virtual ProdutoEntity Produto { get; set; }
     }
 }

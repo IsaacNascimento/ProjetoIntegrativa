@@ -1,4 +1,4 @@
-﻿<%@ Page Async="true" Title="Fornecedores" Language="C#"AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Fornecedores.aspx.cs" Inherits="FrontEnd.Fornecedores" %>
+﻿<%@ Page Async="true" Title="Fornecedores" Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Fornecedores.aspx.cs" Inherits="FrontEnd.Fornecedores" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 

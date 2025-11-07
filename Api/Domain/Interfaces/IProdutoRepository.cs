@@ -2,7 +2,7 @@
 
 namespace Cotacao.Domain.Interfaces
 {
-    public interface IProdutoRepository : IBaseRepository<Produto>
+    public interface IProdutoRepository : IBaseRepository<ProdutoEntity>
     {
     }
 }

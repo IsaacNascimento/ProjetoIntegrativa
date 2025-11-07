@@ -1,6 +1,6 @@
 ﻿namespace Cotacao.Domain.Entities
 {
-    public sealed class Produto : BaseEntity
+    public class ProdutoEntity : BaseEntity
     {
     }
 }

@@ -2,7 +2,7 @@
 
 namespace Cotacao.Domain.Entities
 {
-    public sealed class Fornecedor : BaseEntity
+    public class FornecedorEntity : BaseEntity
     {
         [Column("cnpj")]
         public string Cnpj { get; set; }

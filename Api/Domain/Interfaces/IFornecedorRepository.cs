@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cotacao.Domain.Interfaces
 {
-    public interface IFornecedorRepository : IBaseRepository<Fornecedor>
+    public interface IFornecedorRepository : IBaseRepository<FornecedorEntity>
     {
 
     }

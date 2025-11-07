@@ -7,8 +7,8 @@ namespace Cotacao.Persistence.Context
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Fornecedor> fornecedor { get; set; }
-        public DbSet<Produto> produto { get; set; }
+        public DbSet<FornecedorEntity> fornecedor { get; set; }
+        public DbSet<ProdutoEntity> produto { get; set; }
         public DbSet<CotacaoEntity> cotacao { get; set; }
     }
 }

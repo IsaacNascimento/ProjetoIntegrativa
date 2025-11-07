@@ -18,7 +18,7 @@ namespace Cotacao.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> ObterTodos()
         {
-            var result = await _repository.GetAll();
+            var result = await _repository.ObterTodosComNomes();
             return Ok(result);
         }
 

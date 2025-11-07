@@ -157,7 +157,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\Site.css" />
-    <Content Include="Default.aspx" />
+    <Content Include="Cotacoes.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="FornecedorCriar.aspx" />
     <Content Include="Fornecedores.aspx" />
@@ -242,12 +242,12 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Default.aspx.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Cotacoes.aspx.cs">
+      <DependentUpon>Cotacoes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Cotacoes.aspx.designer.cs">
+      <DependentUpon>Cotacoes.aspx</DependentUpon>
     </Compile>
     <Compile Include="FornecedorCriar.aspx.cs">
       <DependentUpon>FornecedorCriar.aspx</DependentUpon>
