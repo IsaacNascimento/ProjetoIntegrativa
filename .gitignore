@@ -1,0 +1,36 @@
+﻿# Visual Studio / dotnet
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.vs
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# Docker local builds
+**/app/publish/
+**/app/temp/
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Backup e arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# OneDrive / Windows Sync metadata
+*.lnk
+~$*
