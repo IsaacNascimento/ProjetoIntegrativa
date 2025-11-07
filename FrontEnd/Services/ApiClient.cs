@@ -48,21 +48,27 @@ public static class ApiClient
         return await ReadResponse<CotacaoDTO>(res);
     }
 
-    public static async Task CreateCotacaoAsync(CotacaoDTO dto)
+    public static async Task CreateCotacaoAsync(CotacaoCreate dto)
     {
         var json = JsonConvert.SerializeObject(dto);
+        System.Diagnostics.Debug.WriteLine("Enviando JSON para API:");
+        System.Diagnostics.Debug.WriteLine(json);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
         var res = await _http.PostAsync("api/Cotacao", content);
+        var body = await res.Content.ReadAsStringAsync();
+
+        if (!res.IsSuccessStatusCode)
+            throw new InvalidOperationException($"HTTP {(int)res.StatusCode} {res.ReasonPhrase}: {body}");
         res.EnsureSuccessStatusCode();
     }
 
-    public static async Task<List<ProdutoDto>> GetProdutosAsync()
+    public static async Task<List<ProdutoDTO>> GetProdutosAsync()
     {
         var res = await _http.GetAsync("api/Produto");
-        return await ReadResponse<List<ProdutoDto>>(res);
+        return await ReadResponse<List<ProdutoDTO>>(res);
     }
 
-    public static async Task CreateProdutoAsync(ProdutoDto dto)
+    public static async Task CreateProdutoAsync(ProdutoDTO dto)
     {
         var json = JsonConvert.SerializeObject(dto);
         var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");

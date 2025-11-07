@@ -24,7 +24,7 @@ namespace FrontEnd
                 }
 
                 // envia apenas o campo Nome
-                var payload = new ProdutoDto { Nome = nome };
+                var payload = new ProdutoDTO { Nome = nome };
 
                 await ApiClient.CreateProdutoAsync(payload);
 

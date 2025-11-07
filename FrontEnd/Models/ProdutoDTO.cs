@@ -5,7 +5,7 @@ using System.Web;
 
 namespace FrontEnd.Models
 {
-    public class ProdutoDto
+    public class ProdutoDTO
     {
         public int? Id { get; set; } 
         public string Nome { get; set; }
